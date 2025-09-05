@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace "com.zegocloud.uikit.flutter.live_audio_room"
-    compileSdkVersion 35  // استخدم SDK 35
+    compileSdkVersion 35
 
     defaultConfig {
         applicationId "com.zegocloud.uikit.flutter.live_audio_room"
         minSdkVersion 21
-        targetSdkVersion 35  // SDK 35
+        targetSdkVersion 35
         versionCode 1
         versionName "1.0"
     }
