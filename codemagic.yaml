@@ -3,7 +3,7 @@ workflows:
     name: Build Android APK
     max_build_duration: 60
     environment:
-      flutter: 3.22.6
+      flutter: 3.10.7   # إصدار مدعوم من Codemagic
     working_directory: live_audio_room
     scripts:
       - name: Get dependencies
